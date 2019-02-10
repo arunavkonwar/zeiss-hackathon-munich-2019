@@ -3,3 +3,6 @@ Code and design repository for team DOCTAR (Deep Optical Cancer Tissue Apeer Res
 
 <img src="https://github.com/arunavkonwar/zeiss-hackathon-munich-2019/blob/master/images/doctar-logo.png?raw=true">
 
+
+<img src="https://github.com/arunavkonwar/zeiss-hackathon-munich-2019/blob/master/images/DOCTAR_Test.gif?raw=true">
+
